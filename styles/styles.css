@@ -12,7 +12,7 @@
 
  :root {
   /* colors */
-  --link-color: #5a3699;
+  --link-color: #035fe6;
   --link-hover-color: #136ff6;
   --background-color: #fff;
   --overlay-background-color: #eee;
@@ -108,7 +108,7 @@ pre {
 /* buttons */
 
 a.button:any-link, button {
-  font-family: var(--font-family-body);
+  font-family: var(--body-font-family);
   display: inline-block;
   box-sizing: border-box;
   text-decoration: none;
